@@ -4,6 +4,8 @@ A comprehensive microservices-based solution for real-time sentiment analysis an
 This platform implements a distributed microservices architecture designed for high-throughput review processing and real-time analytics.
 Technology Stack
 
+![arch](https://github.com/user-attachments/assets/e74a0233-d5f1-4d2f-816d-83c5ba6247a6)
+
 ![bigdata1](https://github.com/user-attachments/assets/45974e91-6c9b-4eda-9ca9-d7b7366c5d23)
 ![bigdata2](https://github.com/user-attachments/assets/6db6cd4d-b415-48c9-b5db-a5893ceb46c3)
 ![bigdata3](https://github.com/user-attachments/assets/bdc237aa-c3f4-4d6a-8051-5e000062f07b)
